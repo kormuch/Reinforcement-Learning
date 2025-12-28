@@ -1,0 +1,47 @@
+============================================================
+TRAINING SUMMARY
+============================================================
+Timestamp: 20251209_184533
+
+TRAINING RESULTS
+------------------------------------------------------------
+Total episodes trained: 20000
+Final running average reward: 619.35
+Best episode reward: 5401.20
+Worst episode reward: -20.60
+Mean episode reward: 438.09
+Std episode reward: 963.09
+
+EVALUATION METRICS
+------------------------------------------------------------
+Win rate: 3.6%
+Total wins: 716 / 20000
+Mean episode length: 4267 steps
+Mean player score: 14.0
+Mean CPU score: 21.0
+
+REWARD COMPONENTS (Average)
+------------------------------------------------------------
+Score reward: +282.99
+Hit reward: +0.9652
+Loss penalty: -20.96
+
+ACTION DISTRIBUTION
+------------------------------------------------------------
+N/A
+
+HYPERPARAMETERS
+------------------------------------------------------------
+timestamp: 20251209_184533
+experiment_name: exp_06
+continued_from_episode: 0
+environment: {'width': 160, 'height': 192, 'max_score': 21, 'cpu_difficulty': 'medium'}
+agent: {'input_size': 16, 'hidden_size': 128, 'output_size': 3, 'total_params': 2563}
+training: {'max_episodes': 20000, 'batch_size': 5, 'running_reward_decay': 0.99, 'print_frequency': 100}
+rewards: {'ball_hit': 0.02, 'score': 20.0, 'opponent_score': -1.0, 'win': 5000.0, 'loss': -0.0}
+training_results: {'final_running_average': 736.809310880247, 'best_episode_reward': 5401.2, 'total_episodes_trained': 20000, 'total_episodes_cumulative': 20000}
+evaluation_results: {'mean_reward': 349.99799999999993, 'std_reward': 31.350331991862443, 'win_rate': 0.0, 'eval_episodes': 10}
+heatmap_data: {'recording_enabled': False, 'heatmap_file': None, 'epochs_collected': 0}
+collision_data: {'recording_enabled': True, 'epochs_collected': 100, 'total_collisions': 488071}
+
+============================================================
