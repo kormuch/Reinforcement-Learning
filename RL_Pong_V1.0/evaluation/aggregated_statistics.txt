@@ -1,0 +1,86 @@
+AGGREGATED STATISTICS (n=5 experiments)
+================================================================================
+
+Experiments: exp_03, exp_04, exp_05, exp_06, exp_07
+
+TRAINING AGGREGATED:
+  total_episodes_mean: 20000.0
+  total_episodes_std: 0.0
+  final_running_avg_mean: 1460.049316844572
+  final_running_avg_std: 776.9401965415865
+  best_episode_reward_mean: 5401.204
+  best_episode_reward_std: 0.014966629546741852
+  worst_episode_reward_mean: -20.60000000000001
+  worst_episode_reward_std: 0.0
+  mean_episode_reward_mean: 694.531934
+  mean_episode_reward_std: 187.7056783360684
+  std_episode_reward_mean: 1354.6047324193223
+  std_episode_reward_std: 266.23885371958454
+  early_avg_reward_mean: 140.00047440000003
+  early_avg_reward_std: 40.613236829883625
+  mid_avg_reward_mean: 486.7568552000001
+  mid_avg_reward_std: 204.1197991830644
+  late_avg_reward_mean: 1075.6852032
+  late_avg_reward_std: 265.41919480538314
+  final_1000_avg_reward_mean: 1398.537804
+  final_1000_avg_reward_std: 314.9784279664684
+  total_wins_mean: 1602.8
+  total_wins_std: 671.2940935238444
+  win_rate_percent_mean: 8.014
+  win_rate_percent_std: 3.3564704676192223
+  early_win_rate_mean: 0.036
+  early_win_rate_std: 0.054258639865002144
+  late_win_rate_mean: 14.270000000000001
+  late_win_rate_std: 5.145782739292439
+  final_1000_win_rate_mean: 20.560000000000002
+  final_1000_win_rate_std: 6.151292547099348
+  mean_episode_length_mean: 4328.83934
+  mean_episode_length_std: 36.450617337740695
+  std_episode_length_mean: 286.1312672571811
+  std_episode_length_std: 22.0125242652371
+  early_episode_length_mean: 4092.0053999999996
+  early_episode_length_std: 42.31442767435237
+  late_episode_length_mean: 4440.12154
+  late_episode_length_std: 16.716701311275656
+  length_increase_percent_mean: 8.515918209231632
+  length_increase_percent_std: 0.8925352680062271
+  mean_player_score_mean: 15.688600000000003
+  mean_player_score_std: 1.088005871767244
+  std_player_score_mean: 5.370844609429238
+  std_player_score_std: 0.424208369310832
+  mean_cpu_score_mean: 20.91986
+  mean_cpu_score_std: 0.03356470467619303
+  std_cpu_score_mean: 0.2641309091630144
+  std_cpu_score_std: 0.05319289008658665
+  final_1000_player_score_mean: 19.5158
+  final_1000_player_score_std: 0.3732566945146461
+  final_1000_cpu_score_mean: 20.794400000000003
+  final_1000_cpu_score_std: 0.06151292547099382
+  mean_score_reward_mean: 313.77200000000005
+  mean_score_reward_std: 21.76011743534486
+  std_score_reward_mean: 107.41689218858201
+  std_score_reward_std: 8.484167386212453
+  mean_hit_reward_mean: 0.9797940000000004
+  mean_hit_reward_std: 0.009212236883623942
+  std_hit_reward_mean: 0.09315590691656837
+  std_hit_reward_std: 0.005247527048929278
+  mean_loss_penalty_mean: -20.91986
+  mean_loss_penalty_std: 0.03356470467619303
+  std_loss_penalty_mean: 0.2641309091630144
+  std_loss_penalty_std: 0.05319289008658665
+
+COLLISION AGGREGATED:
+  total_collisions_mean: 520111.4
+  total_collisions_std: 20383.966106722215
+  total_epochs_mean: 100.0
+  total_epochs_std: 0.0
+  early_edge_percent_mean: 59.55666666666667
+  early_edge_percent_std: 2.1952372688770274
+  mid_edge_percent_mean: 82.88
+  mid_edge_percent_std: 6.537233220699585
+  late_edge_percent_mean: 98.888
+  late_edge_percent_std: 0.3942283602177882
+  final_edge_percent_mean: 98.876
+  final_edge_percent_std: 0.5651760787577562
+  edge_increase_mean: 39.331333333333326
+  edge_increase_std: 2.0197828266095006
