@@ -172,8 +172,8 @@ Training takes ~4-6 hours on modern CPU. Exact numbers vary (no fixed random see
 If you use this code, please cite:
 
 ```
-[Your Name]. (2025). Training a Policy Gradient Agent on Custom Pong with Progressive Angles.
-[University], [Course].
+Korbinian Much. (2025). Training a Policy Gradient Agent on Custom Pong with Progressive Angles.
+IU, Reinforcement Learning.
 ```
 
 ## Contact
@@ -182,5 +182,6 @@ If you use this code, please cite:
 Project: Policy Gradient Methods for Atari Pong with Strategic Analysis
 
 ---
+
 
 **License:** MIT
