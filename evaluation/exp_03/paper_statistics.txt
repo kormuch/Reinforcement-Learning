@@ -1,0 +1,48 @@
+EXPERIMENT: exp_03
+================================================================================
+
+TRAINING:
+  total_episodes: 20000
+  final_running_avg: 1712.4170143866015
+  best_episode_reward: 5401.219999999999
+  worst_episode_reward: -20.60000000000001
+  mean_episode_reward: 756.6431339999999
+  std_episode_reward: 1453.8183971052035
+  early_avg_reward: 181.81673600000002
+  mid_avg_reward: 541.5439359999999
+  late_avg_reward: 1151.605932
+  final_1000_avg_reward: 1498.7600400000001
+  total_wins: 1778
+  win_rate_percent: 8.89
+  early_win_rate: 0.04
+  late_win_rate: 15.72
+  final_1000_win_rate: 22.5
+  mean_episode_length: 4352.32925
+  std_episode_length: 285.7876963320955
+  early_episode_length: 4111.252
+  late_episode_length: 4449.7078
+  length_increase_percent: 8.23242652116678
+  mean_player_score: 16.6035
+  std_player_score: 4.873322810338128
+  mean_cpu_score: 20.9111
+  std_cpu_score: 0.28460646521468885
+  final_1000_player_score: 19.676
+  final_1000_cpu_score: 20.775
+  mean_score_reward: 332.07
+  std_score_reward: 97.46645620675277
+  mean_hit_reward: 0.9842340000000004
+  std_hit_reward: 0.09422397333936819
+  mean_loss_penalty: -20.9111
+  std_loss_penalty: 0.28460646521468885
+  convergence_50pct: 7545
+  convergence_75pct: 9018
+  convergence_90pct: 9100
+
+COLLISION:
+  total_collisions: 535347
+  total_epochs: 100
+  early_edge_percent: 62.6
+  mid_edge_percent: 90.45454545454547
+  late_edge_percent: 98.92999999999999
+  final_edge_percent: 99.08000000000001
+  edge_increase: 36.32999999999999

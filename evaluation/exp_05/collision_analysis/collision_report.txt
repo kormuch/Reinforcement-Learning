@@ -1,0 +1,32 @@
+======================================================================
+PADDLE COLLISION ANALYSIS REPORT
+======================================================================
+
+SUMMARY STATISTICS
+----------------------------------------------------------------------
+Total Epochs Analyzed: 100
+Total Collisions Recorded: 547671
+
+EDGE HIT PROGRESSION
+----------------------------------------------------------------------
+Initial Edge Hit Rate: 60.9%
+Final Edge Hit Rate: 99.5%
+Improvement: +38.6 percentage points
+
+BOUNCE ANGLE PROGRESSION
+----------------------------------------------------------------------
+Initial Average Angle: 44.8°
+Final Average Angle: 62.2°
+Improvement: +17.4°
+
+INTERPRETATION
+----------------------------------------------------------------------
+Edge hits increased from 60.9% to 99.5%, demonstrating the agent
+learned to exploit the progressive angle system. Higher edge hit rates
+produce steeper bounce angles, making returns harder to defend.
+
+Average bounce angle increased from 44.8° to
+62.2°, confirming strategic use of steep
+trajectories for offensive advantage.
+
+======================================================================
